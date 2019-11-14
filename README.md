@@ -1,2 +1,2 @@
-# 1st-Python-Assignment---Shezi-Asghar
-My name is Shezi Asghar. First assignment of python programming language! :)
+# Python-Assignments---Shezi-Asghar
+My name is Shezi Asghar. Assignments of python programming language! :)
